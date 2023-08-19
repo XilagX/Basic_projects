@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include"Connect4.h"
+#include"Functions.h"
 
 
 int main(){
